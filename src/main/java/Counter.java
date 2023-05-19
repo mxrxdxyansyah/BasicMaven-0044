@@ -1,6 +1,6 @@
 package src.main.java;
 
-public class Coutrol {
+public class Control {
 
 	private int count;
 	
